@@ -8,6 +8,17 @@ public class Jan19 {
 		System.out.println("Mayuresh");
 		System.out.println("Mayuresh");
 		System.out.println("Mayuresh");
+		System.out.println("abc");
+		System.out.println("abc");
+
+		System.out.println("abc");
+
+		System.out.println("abc");
+
+		System.out.println("abc");
+
+		System.out.println("abc");
+
 	}
 
 }
